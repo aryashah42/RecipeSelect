@@ -1,5 +1,6 @@
 *In progress*
 
+Further refining the Recipe_Recommendation_Project by applying NLP for more robust recommendations
 
 Applying NLP models to provide personalized recipe recommendations based on review sentiment, user input, and nutritional needs, leveraging sentiment analysis, text embeddings, cosine similarity, data preprocessing, and feature
 engineering to match user preferences and specific macronutrient requirements with recipes.
